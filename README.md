@@ -1,4 +1,4 @@
 # BugGame
 
 
-![gazou](./org19215.jpg "サンプル")
+![gazou](./1.png "サンプル")
